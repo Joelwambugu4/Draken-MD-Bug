@@ -4,23 +4,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "33757054310"
-global.ownername = "Toxxic Md"
-global.ytname = "Toxxic Md"
+global.ownernomer = "254758012438"
+global.ownername = "MR JOEL Md"
+global.ytname = "TMR JOEL Md"
 global.socialm = "GitHub: Toxic1239"
-global.location = "Africa, Nigeria, Lagos"
+global.location = "Africa, Kenya, Nairobi"
 
-global.ownernumber = '33757054414'  //creator number
-global.ownername = 'Toxxic Md' //owner name
+global.ownernumber = '254758012438'  //creator number
+global.ownername = 'MR JOEL Md' //owner name
 global.botname = 'Draken Md' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Toxxic-Md\n\nContact: 33757054414'
+global.author = 'Toxxic-Md\n\nContact: 254758012438'
 
 //console view/theme
 global.themeemoji = '💀'
-global.wm = "Toxxic Tech."
+global.wm = "MR JOEL Tech."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'
